@@ -1,0 +1,12 @@
+.Guess-input {
+    background-color: rgb(10, 178, 184);
+    border: 10px solid rgb(243, 173, 173);
+    margin: 1px;
+    text-align: right;
+    padding: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 1;
+    box-align: center;
+  }
+  

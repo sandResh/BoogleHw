@@ -1,0 +1,13 @@
+.Board-div {
+    color: goldenrod;
+    width: 500px;
+    margin: left;
+    font-size: 25pt;
+  }
+  
+  .Tile {
+    color: rgb(37, 38, 39);
+    text-align: center;
+    line-height: 35pt;
+    vertical-align: middle;
+  }

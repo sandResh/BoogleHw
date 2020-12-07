@@ -1,0 +1,16 @@
+.Found-solutions-list {
+    text-align: right;
+    margin: 0pt;
+  }
+  
+  .Found-solutions-list ul {
+    list-style-type: none;
+    box-align: right;
+  }
+  
+  .Found-solutions-list li {
+    font-size: 14pt;
+    line-height: 20pt;
+    box-align: right;
+  }
+  
